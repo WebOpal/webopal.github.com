@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: development | WebOpal Development Blog]]></title>
-  <link href="http://WebOpal.github.com/blog/categories/development/atom.xml" rel="self"/>
-  <link href="http://WebOpal.github.com/"/>
-  <updated>2013-01-31T10:52:27+01:00</updated>
-  <id>http://WebOpal.github.com/</id>
+  <link href="http://webopal.github.com/blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://webopal.github.com/"/>
+  <updated>2013-01-31T11:00:57+01:00</updated>
+  <id>http://webopal.github.com/</id>
   <author>
     <name><![CDATA[The WebOpal team]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[WepOpal Blog ist online!!!]]></title>
-    <link href="http://WebOpal.github.com/blog/2013/01/30/wepopal-blog-ist-online/"/>
+    <link href="http://webopal.github.com/blog/2013/01/30/wepopal-blog-ist-online/"/>
     <updated>2013-01-30T19:13:00+01:00</updated>
-    <id>http://WebOpal.github.com/blog/2013/01/30/wepopal-blog-ist-online</id>
+    <id>http://webopal.github.com/blog/2013/01/30/wepopal-blog-ist-online</id>
     <content type="html"><![CDATA[<p>Der WepOpal blog ist jetzt online.</p>
 ]]></content>
   </entry>
