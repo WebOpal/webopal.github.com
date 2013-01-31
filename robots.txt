@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://webopal.github.com/sitemap.xml 
+Sitemap: http://WebOpal.github.com/sitemap.xml 
